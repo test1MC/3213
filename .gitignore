@@ -6,7 +6,7 @@
 
 # MadCap file patterns
 /Output
-/Analyzer
+# /Analyzer
 /FileSync
 /Project/Users
 /.svn
